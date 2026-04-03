@@ -47,6 +47,7 @@ const Navbar = () => (
           </div>
         </a>
         <div className="hidden md:flex items-center gap-8 text-sm font-medium text-gray-600">
+          <a href="#" className="hover:text-indigo-600 transition-colors">홈</a>
           <a href="#programs" className="hover:text-indigo-600 transition-colors">교육과정</a>
           <a href="#features" className="hover:text-indigo-600 transition-colors">특장점</a>
           <a href="#contact" className="hover:text-indigo-600 transition-colors">상담문의</a>
